@@ -1,2 +1,1 @@
-# Projects
-Journal of New Learnings 
+# Causual Impact modelling
